@@ -2,7 +2,7 @@
 
 This dataset contains the prompts used to test ChatGPT's level of empathy. 
 
-The dataset uses statements from the Empathetic Dialogues dataset as initial prompts. Furthermore it contains ChatGPT's responses and the corresponding emotion categories. 
+The dataset uses statements from the [Empathetic Dialogues](https://github.com/facebookresearch/EmpatheticDialogues) dataset as initial prompts. Furthermore it contains ChatGPT's responses and the corresponding emotion categories. 
 
 ## References
 
